@@ -1,2 +1,2 @@
 # NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP-SAMPLE
-Building an ethical hacking virtual lab for penetration testing. Installed and configured kali linux and Vm box manager, a brief overview by assigning the Network -> NatNetwork to IPv4 10.0.0.4. This is selected for making a virtual environment on IPv4 in order to test the cybersecurity tools, network scanning , vulnerability assess on private net
+Building an ethical hacking virtual controlled lab for penetration testing. Installed and configured kali linux and Vm box manager, a brief overview by assigning the Network -> NatNetwork to IPv4 10.0.0.4. This is selected for making a virtual environment on IPv4 in order to test the cybersecurity tools, network scanning , vulnerability assess on private net
